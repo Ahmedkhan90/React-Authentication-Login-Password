@@ -2,7 +2,7 @@
   "name": "firebase-react-auth",
   "version": "0.1.0",
   "private": true,
-  "homepage": "htp://ahmedkhan90.github.io/React-Authentication-Login-Password",
+  "homepage": "http://ahmedkhan90.github.io/React-Authentication-Login-Password",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
