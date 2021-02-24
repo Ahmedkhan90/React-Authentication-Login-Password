@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,WACI,qBAAuB,CACvB,UACJ,CACA,MACI,UACJ,CACA,cACI,UACJ,CACA,aACI,WACJ","file":"main.c60cfa8d.chunk.css","sourcesContent":[".card-body{\r\n    background-color: black;\r\n    color: white;\r\n}\r\nlabel {\r\n    color: white;\r\n}\r\n.form-control{\r\n    color: black;\r\n}\r\n.text-center{\r\n    color:green;\r\n}"]}

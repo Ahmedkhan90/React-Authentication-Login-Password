@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Authentication-Login-Password/static/css/main.c60cfa8d.chunk.css",
+    "main.js": "/React-Authentication-Login-Password/static/js/main.1591939a.chunk.js",
+    "main.js.map": "/React-Authentication-Login-Password/static/js/main.1591939a.chunk.js.map",
+    "runtime-main.js": "/React-Authentication-Login-Password/static/js/runtime-main.242a5b81.js",
+    "runtime-main.js.map": "/React-Authentication-Login-Password/static/js/runtime-main.242a5b81.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/React-Authentication-Login-Password/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.d79012f6.chunk.js": "/React-Authentication-Login-Password/static/js/2.d79012f6.chunk.js",
+    "static/js/2.d79012f6.chunk.js.map": "/React-Authentication-Login-Password/static/js/2.d79012f6.chunk.js.map",
+    "index.html": "/React-Authentication-Login-Password/index.html",
+    "precache-manifest.f0fab9385cad671eecc883b880606f6d.js": "/React-Authentication-Login-Password/precache-manifest.f0fab9385cad671eecc883b880606f6d.js",
+    "service-worker.js": "/React-Authentication-Login-Password/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/React-Authentication-Login-Password/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.c60cfa8d.chunk.css.map": "/React-Authentication-Login-Password/static/css/main.c60cfa8d.chunk.css.map",
+    "static/js/2.d79012f6.chunk.js.LICENSE.txt": "/React-Authentication-Login-Password/static/js/2.d79012f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.242a5b81.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.d79012f6.chunk.js",
+    "static/css/main.c60cfa8d.chunk.css",
+    "static/js/main.1591939a.chunk.js"
+  ]
+}
