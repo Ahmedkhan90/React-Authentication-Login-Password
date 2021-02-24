@@ -1,0 +1,13 @@
+.card-body{
+    background-color: black;
+    color: white;
+}
+label {
+    color: white;
+}
+.form-control{
+    color: black;
+}
+.text-center{
+    color:green;
+}
